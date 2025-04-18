@@ -135,8 +135,6 @@ With a keen interest in solving complex problems and advancing mobile tech, I am
 <img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=XBSaykat&theme=tokyonight" alt="muskanrani" />
 <br/>
 
- <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="XBSaykat's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=XBSaykat&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
 
 ### Contributed Projects
 
