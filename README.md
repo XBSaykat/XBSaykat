@@ -21,6 +21,9 @@ I'm a **Senior Software Engineer** specializing in **Android, Jetpack Compose, F
 - 🌱 **Learning:** AI & Machine Learning integration for mobile applications.
 - 💬 **Ask me about:** Android, Kotlin, Jetpack Compose, Flutter, KMP, Clean Architecture.
 
+<div align="center">
+<img align="center" height="270px" width="600px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif"/><br> 
+</div>
 
 ### 🛠️ Technologies & Tools
 
@@ -72,37 +75,68 @@ With a keen interest in solving complex problems and advancing mobile tech, I am
 
 
 ### 🧰 Technical Expertise and Tools:
-<p align="center">
-  <!-- Development Environments -->
-  <img src="https://t-images.imgix.net/https%3A%2F%2Fstatic.t-cdn.net%2F5ea3e4a6fccadd392f62a083%2Fposts%2F5f9848f63f6c32345a2209bb%2F5f9848f63f6c32345a2209bb_46084.png?width=1240&w=1240&auto=format%2Ccompress&ixlib=js-2.3.1&s=240c2aea60f466a4835a82d57d61af67" alt="Android Studio" height="40" style="margin:4px">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ" height="40" style="margin:4px">
-  
-  <!-- Programming Languages & Frameworks -->
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" alt="Kotlin" height="40" style="margin:4px">
-  <img src="https://img.shields.io/badge/KMP-Kotlin_Multiplatform-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="KMP" height="40" style="margin:4px">
-  <img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" alt="Java" height="40" style="margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="margin:4px">
-  <img src="https://img.shields.io/badge/Dart-0175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" height="40" style="margin:4px">
-  <img src="https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" height="40" style="margin:4px">
-  <img src="https://3.bp.blogspot.com/-VVp3WvJvl84/X0Vu6EjYqDI/AAAAAAAAPjU/ZOMKiUlgfg8ok8DY8Hc-ocOvGdB0z86AgCLcBGAsYHQ/s1600/jetpack%2Bcompose%2Bicon_RGB.png" alt="Jetpack Compose" height="40" style="margin:4px">
-  
-  <!-- Databases -->
-  <img src="https://img.shields.io/badge/SQLite-07405E.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" height="40" style="margin:4px">
-  
-  <!-- Version Control & CI/CD -->
-  <img src="https://engineering.procore.com/content/images/2016/11/git-logo.png" alt="Git" height="40" style="margin:4px">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0cZ3c078fwqLTXb0nYTu1h-ImJjrGxKDDGTPRwzcMU4G7cui-WSydUScZcwMShYuF300&usqp=CAU" alt="CI/CD" height="40" style="margin:4px">
-  
-  <!-- Cloud & Other -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Firebase_Logo.svg/1200px-Firebase_Logo.svg.png" alt="Firebase" height="40" style="margin:4px">
-  
-  <!-- Additional Languages -->
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" height="40" style="margin:4px">
-  <img src="https://img.shields.io/badge/Groovy-4298B8.svg?style=for-the-badge&logo=groovy&logoColor=white" alt="Groovy" height="40" style="margin:4px">
-</p>
+> Tools, languages, and other things that I like to work with.
 
-## Repository Language's
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XBSaykat&hide=css&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://t-images.imgix.net/https%3A%2F%2Fstatic.t-cdn.net%2F5ea3e4a6fccadd392f62a083%2Fposts%2F5f9848f63f6c32345a2209bb%2F5f9848f63f6c32345a2209bb_46084.png?width=1240&w=1240&auto=format%2Ccompress&ixlib=js-2.3.1&s=240c2aea60f466a4835a82d57d61af67" width="48" height="48" alt="Golang" />
+      </a>
+      <br>Android Studio
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" width="48" height="48" alt="Python" />
+      </a>
+      <br>IntelliJ
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" width="48" height="48" alt="Jsonnet" />
+      </a>
+      <br>Kotlin
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://img.shields.io/badge/KMP-Kotlin_Multiplatform-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>KMP
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://img.shields.io/badge/Dart-0175C2.svg?style=for-the-badge&logo=dart&logoColor=white" width="48" height="48" alt="Kubernetes" />
+      </a>
+      <br>Dart
+    </td>
+    <td align="center" width="96"> 
+      <a href="#macropower-tech" >
+        <img src="https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Flutter
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="https://3.bp.blogspot.com/-VVp3WvJvl84/X0Vu6EjYqDI/AAAAAAAAPjU/ZOMKiUlgfg8ok8DY8Hc-ocOvGdB0z86AgCLcBGAsYHQ/s1600/jetpack%2Bcompose%2Bicon_RGB.png" width="48" height="48" alt="Debian" />
+      </a>
+      <br>Compose
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
+      </a>
+      <br>Grafana
+    </td>
+  </tr>
+</table>
+
+## Github State
+<a href="https://github.com/muskanrani/github-readme-stats"><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XBSaykat&layout=compact&theme=tokyonight" /></a>
+<img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=XBSaykat&theme=tokyonight" alt="muskanrani" />
+<br/>
+
+ <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="XBSaykat's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=XBSaykat&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
 
 ### Contributed Projects
 
@@ -153,7 +187,16 @@ With a keen interest in solving complex problems and advancing mobile tech, I am
   </tr>
 </table>
 
+<h2 align="left">:heart: Let's get connected:</h2>
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/saykat-mir/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://medium.com/@mrsaykatm4">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
+  </a>
+</p>
 
 
 
