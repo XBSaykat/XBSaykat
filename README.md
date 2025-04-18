@@ -81,51 +81,51 @@ With a keen interest in solving complex problems and advancing mobile tech, I am
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://t-images.imgix.net/https%3A%2F%2Fstatic.t-cdn.net%2F5ea3e4a6fccadd392f62a083%2Fposts%2F5f9848f63f6c32345a2209bb%2F5f9848f63f6c32345a2209bb_46084.png?width=1240&w=1240&auto=format%2Ccompress&ixlib=js-2.3.1&s=240c2aea60f466a4835a82d57d61af67" width="48" height="48" alt="Golang" />
+        <img src="https://t-images.imgix.net/https%3A%2F%2Fstatic.t-cdn.net%2F5ea3e4a6fccadd392f62a083%2Fposts%2F5f9848f63f6c32345a2209bb%2F5f9848f63f6c32345a2209bb_46084.png?width=1240&w=1240&auto=format%2Ccompress&ixlib=js-2.3.1&s=240c2aea60f466a4835a82d57d61af67" width="48" height="48" alt="Android Studio" />
       </a>
       <br>Android Studio
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" width="48" height="48" alt="Python" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" width="48" height="48" alt="IntelliJ" />
       </a>
       <br>IntelliJ
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" width="48" height="48" alt="Jsonnet" />
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" width="48" height="48" alt="Kotlin" />
       </a>
       <br>Kotlin
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://img.shields.io/badge/KMP-Kotlin_Multiplatform-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" width="48" height="48" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/KMP-Kotlin_Multiplatform-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" width="48" height="48" alt="KMP" />
       </a>
       <br>KMP
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://img.shields.io/badge/Dart-0175C2.svg?style=for-the-badge&logo=dart&logoColor=white" width="48" height="48" alt="Kubernetes" />
+        <img src="https://img.shields.io/badge/Dart-0175C2.svg?style=for-the-badge&logo=dart&logoColor=white" width="48" height="48" alt="Dart" />
       </a>
       <br>Dart
     </td>
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
-        <img src="https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white" width="48" height="48" alt="Docker" />
+        <img src="https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white" width="48" height="48" alt="Flutter" />
       </a>
       <br>Flutter
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="https://3.bp.blogspot.com/-VVp3WvJvl84/X0Vu6EjYqDI/AAAAAAAAPjU/ZOMKiUlgfg8ok8DY8Hc-ocOvGdB0z86AgCLcBGAsYHQ/s1600/jetpack%2Bcompose%2Bicon_RGB.png" width="48" height="48" alt="Debian" />
+        <img src="https://3.bp.blogspot.com/-VVp3WvJvl84/X0Vu6EjYqDI/AAAAAAAAPjU/ZOMKiUlgfg8ok8DY8Hc-ocOvGdB0z86AgCLcBGAsYHQ/s1600/jetpack%2Bcompose%2Bicon_RGB.png" width="48" height="48" alt="Compose" />
       </a>
       <br>Compose
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
+        <img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" width="48" height="48" alt="Java" />
       </a>
-      <br>Grafana
+      <br>Java
     </td>
   </tr>
 </table>
