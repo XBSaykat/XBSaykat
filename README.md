@@ -13,19 +13,22 @@
   <a href="https://leetcode.com/u/mrsaykat/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge"/>
   </a>
+  <a href="https://judge.beecrowd.com/en/profile/72697">
+    <img src="https://img.shields.io/badge/XDA--Developers-%23AC6E2F.svg?style=for-the-badge&logo=XDA-Developers&logoColor=white" alt="LeetCode Badge"/>
+  </a>
 </p>
 
 I'm a **Senior Software Engineer** specializing in **Android, Jetpack Compose, Flutter and KMP**. I have a strong background in **mobile app development, scalable architecture, and AI-driven solutions**. Currently, I work at **10 Minute School Ltd.**, where I develop robust applications used by millions of users.
 
-- 🔭 **Current Role:** Senior Software Engineer at 10 Minute School Ltd.
-- 🌱 **Learning:** AI & Machine Learning integration for mobile applications.
-- 💬 **Ask me about:** Android, Kotlin, Jetpack Compose, Flutter, KMP, Clean Architecture.
+- 💼 **Current Workplace:** Senior Software Engineer at 10 Minute School Ltd.
+- 📚 **Currently Exploring:** AI & Machine Learning integration for mobile applications.
+- 🗣️ **Let’s Talk About:** Android, Kotlin, Jetpack Compose, Flutter, KMP, Clean Architecture.
 
 <div align="center">
 <img align="center" height="270px" width="600px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif"/><br> 
 </div>
 
-### 🛠️ Technologies & Tools
+### 🧬 Technologies & Tools
 
 #### **Languages**
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white) 
@@ -192,7 +195,7 @@ With a keen interest in solving complex problems and advancing mobile tech, I am
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://medium.com/@mrsaykatm4">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Medium Badge"/>
   </a>
 </p>
 
